@@ -1,0 +1,7 @@
+.data{
+	border: 2px solid red;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	z-index: 5;
+}
